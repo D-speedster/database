@@ -784,9 +784,6 @@
   ],
   "Moviez": [
     {
-      "id": 1
-    },
-    {
       "id": "tt4154796",
       "name": "Avengers: Endgame",
       "year": "2019",
@@ -1163,103 +1160,6 @@
       "Image_Moviez": []
     },
     {
-      "id": "tt16419074",
-      "name": "Air",
-      "year": "2023",
-      "genre": "درام، ورزشی",
-      "rate": "7.5",
-      "poster": "https://m.media-amazon.com/images/M/MV5BYmNlOTNlYjUtM2U3Yy00M2ZjLTkxZDQtN2NiNGZiZDI0ZjE3XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6762_AL_.jpg",
-      "time": "111",
-      "story": "تاریخچه فروشنده کفش سانی واکارو و نحوه رهبری نایک در تعقیب بزرگترین ورزشکار تاریخ ورزش: مایکل جردن.",
-      "awards": "Awards, 1 win",
-      "director": "Ben Affleck",
-      "stars": "Matt Damon, Jason Bateman, Ben Affleck",
-      "countries": "ایالات متحده آمریکا",
-      "writers": "Alex Convery",
-      "CreatedAt": "2023-06-11",
-      "similars": [
-        {
-          "id": "tt4873118",
-          "title": "The Covenant",
-          "image": "https://m.media-amazon.com/images/M/MV5BNmQzOWZhOTMtZTcxNC00MTdkLWEwYmUtOWVmOTFhNTdkNjRkXkEyXkFqcGdeQXVyODk2NDQ3MTA@._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "7.5"
-        },
-        {
-          "id": "tt12758060",
-          "title": "Tetris",
-          "image": "https://m.media-amazon.com/images/M/MV5BZmZmNTdiYjMtZDdmNi00ZGU4LThkYmQtZTFhZWNlYmUxYWZkXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "7.4"
-        },
-        {
-          "id": "tt2906216",
-          "title": "Dungeons & Dragons: Honor Among Thieves",
-          "image": "https://m.media-amazon.com/images/M/MV5BNmFkN2M2NzItOTY5YS00MmE2LTk3ZjctNTk2YzQ5ZmRiYzJjXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "7.3"
-        },
-        {
-          "id": "tt6791350",
-          "title": "Guardians of the Galaxy Vol. 3",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "8.2"
-        },
-        {
-          "id": "tt7405458",
-          "title": "A Man Called Otto",
-          "image": "https://m.media-amazon.com/images/M/MV5BNzg3OTEzMTgtYWU0OC00YTI0LWIxOTAtNmRkNTc0Nzg2YWU1XkEyXkFqcGdeQXVyNjY1MTg4Mzc@._V1_Ratio0.8019_AL_.jpg",
-          "imDbRating": "7.5"
-        },
-        {
-          "id": "tt6968614",
-          "title": "The Mother",
-          "image": "https://m.media-amazon.com/images/M/MV5BODlmZThjZGItOGRmMC00ODVjLWIzYWMtODBhYzQyZjE4NWE5XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "5.6"
-        },
-        {
-          "id": "tt10366206",
-          "title": "John Wick: Chapter 4",
-          "image": "https://m.media-amazon.com/images/M/MV5BMDExZGMyOTMtMDgyYi00NGIwLWJhMTEtOTdkZGFjNmZiMTEwXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "8.0"
-        },
-        {
-          "id": "tt1745960",
-          "title": "Top Gun: Maverick",
-          "image": "https://m.media-amazon.com/images/M/MV5BZWYzOGEwNTgtNWU3NS00ZTQ0LWJkODUtMmVhMjIwMjA1ZmQwXkEyXkFqcGdeQXVyMjkwOTAyMDU@._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "8.3"
-        },
-        {
-          "id": "tt14846026",
-          "title": "Sisu",
-          "image": "https://m.media-amazon.com/images/M/MV5BMWYwMzNkOWEtNjA3YS00YjE5LTlkMjYtMmRjMjExNjA1NDM0XkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "7.0"
-        },
-        {
-          "id": "tt19853258",
-          "title": "Still: A Michael J. Fox Movie",
-          "image": "https://m.media-amazon.com/images/M/MV5BNGFmYmUyMDUtNjk1MS00ZDMzLWEyMmUtM2I4YzhhZjRiYjk2XkEyXkFqcGdeQXVyMTUzMTg2ODkz._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "8.2"
-        },
-        {
-          "id": "tt10954600",
-          "title": "Ant-Man and the Wasp: Quantumania",
-          "image": "https://m.media-amazon.com/images/M/MV5BODZhNzlmOGItMWUyYS00Y2Q5LWFlNzMtM2I2NDFkM2ZkYmE1XkEyXkFqcGdeQXVyMTU5OTA4NTIz._V1_Ratio0.6763_AL_.jpg",
-          "imDbRating": "6.2"
-        },
-        {
-          "id": "tt1630029",
-          "title": "Avatar: The Way of Water",
-          "image": "https://m.media-amazon.com/images/M/MV5BYjhiNjBlODctY2ZiOC00YjVlLWFlNzAtNTVhNzM1YjI1NzMxXkEyXkFqcGdeQXVyMjQxNTE1MDA@._V1_Ratio0.7053_AL_.jpg",
-          "imDbRating": "7.7"
-        }
-      ],
-      "Image_Moviez": [
-        "https://m.media-amazon.com/images/M/MV5BMWQ2NjUxMWItMTJhOC00NDU0LWI5OTgtODgxNzNkYzdhZjAzXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.8600_AL_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BMDY1MTQ2ZTMtZmUyYi00NzUyLTllNjgtY2I3NGU3ZTFlOWJmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio2.2000_AL_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BNWE4MzdlZjMtODQzYi00YzE2LWJhYzItMDMwMGRlMDJiNTNjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZDczMTU0NjYtNzAwZS00YTNmLWIwYjgtODE4MTgyNjhiMDczXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.8600_AL_.jpg",
-        "https://m.media-amazon.com/images/M/MV5BZmZjZGM1ZmItMzQyMC00ZDgxLWJiMmYtZDkzNWExN2MwNGRmXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio1.5000_AL_.jpg"
-      ]
-    },
-    {
       "id": "tt5433140",
       "name": "Fast X",
       "year": "2023",
@@ -1546,67 +1446,157 @@
         "https://m.media-amazon.com/images/M/MV5BMTk0MDk5NDc2OF5BMl5BanBnXkFtZTgwMTE0NjYxMjE@._V1_Ratio1.5000_AL_.jpg",
         "https://m.media-amazon.com/images/M/MV5BMTg3OTkzOTgxMF5BMl5BanBnXkFtZTgwODA0NjYxMjE@._V1_Ratio2.4000_AL_.jpg"
       ]
+    },
+    {
+      "id": "tt0212720",
+      "name": "A.I. Artificial Intelligence",
+      "year": "2001",
+      "genre": [
+        "درام",
+        "تخیلی"
+      ],
+      "rate": "7.2",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNWU2NzEyMDYtM2MyOS00OGM3LWFkNzAtMzRiNzE2ZjU5ZTljXkEyXkFqcGdeQXVyNjU0OTQ0OTY@._V1_SX300.jpg",
+      "time": "146 min",
+      "awards": "Nominated for 2 Oscars. 17 wins & 71 nominations total",
+      "director": "Steven Spielberg",
+      "stars": "Haley Joel Osment, Jude Law, Frances O'Connor",
+      "countries": "United States, United Kingdom",
+      "writers": "Brian Aldiss, Ian Watson, Steven Spielberg",
+      "CreatedAt": "2023-07-30",
+      "Image_Moviez": [
+        "https://image.tmdb.org/t/p/w500/89Xhd2VOGfKaK6IF0RDKPVwPj7.jpg",
+        "https://image.tmdb.org/t/p/w500/tzv6ZsYXoEuL5MH2lNvf5SW4bsI.jpg",
+        "https://image.tmdb.org/t/p/w500//9lEIYXv4ZsYL7U1juUvOYR0Ex3j.jpg",
+        "https://image.tmdb.org/t/p/w500//2tQ0Uhav10ay7jOX6QoqvbtGljB.jpg",
+        "https://image.tmdb.org/t/p/w500//n7p6UTAZtkeoHkwCO42BEQaMFJY.jpg",
+        "https://image.tmdb.org/t/p/w500//yghJjccBOFtgGNiSskBMDs5f6wk.jpg",
+        "https://image.tmdb.org/t/p/w500//wxmVm11dwgeswbh1GCLG7jtAmFC.jpg",
+        "https://image.tmdb.org/t/p/w500//payH6QuVnxTJpAR6iPtykHAPaa8.jpg",
+        "https://image.tmdb.org/t/p/w500//vKNQSDtSFRwv9JfsLUhuM754MqW.jpg"
+      ]
     }
   ],
   "Comments": [],
   "Collections": [],
   "Users": [
     {
-      "name": "amir",
-      "username": "sparta",
+      "user": "speedster",
+      "email": "mahdyghajar@yahoo.com",
+      "password": "speedster",
+      "type": "Owner",
       "id": 1
     },
     {
-      "name": "ali",
-      "username": "spartsa",
+      "user": "AMIRALI",
+      "email": "amir7@gmail.com",
+      "password": "AMIRALI7",
+      "type": "Elder",
       "id": 2
     },
     {
+      "user": "ALi",
+      "email": "Ali.zanjan@gmail.com",
+      "password": "ALi2022",
+      "type": "User",
       "id": 3
-    },
-    {
-      "user": "reza",
-      "email": "232",
-      "password": "3232",
-      "id": 4
     }
   ],
   "BoxOffice": [
-    {
-      "gross": "$32.4M",
-      "id": "tt18079362",
-      "image": "https://m.media-amazon.com/images/M/MV5BNzY4MzQ1MTgtNGZiYS00Y2M5LWJmODUtYzIzNWFlOGZjMjk5XkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6716_AL_.jpg",
-      "rank": "6",
-      "title": "80 for Brady",
-      "weekend": "$3.8M",
-      "weeks": "3"
-    },
-    {
-      "gross": "$12.5M",
-      "id": "tt0120338",
-      "image": "https://m.media-amazon.com/images/M/MV5BMDdmZGU3NDQtY2E5My00ZTliLWIzOTUtMTY4ZGI1YjdiNjk3XkEyXkFqcGdeQXVyNTA4NzY1MzY@._V1_Ratio0.6716_AL_.jpg",
-      "rank": "7",
-      "title": "Titanic",
-      "weekend": "$2.4M",
-      "weeks": "2"
-    },
-    {
-      "gross": "$2.6M",
-      "id": "tt6722802",
-      "image": "https://m.media-amazon.com/images/M/MV5BM2EzNWEwNmYtMGE2NC00Y2NiLTk5NGEtZmRlZDE0Y2M0Yzg5XkEyXkFqcGdeQXVyNTE1NjY5Mg@@._V1_Ratio0.6716_AL_.jpg",
-      "rank": "8",
-      "title": "Marlowe",
-      "weekend": "$1.8M",
-      "weeks": "1"
-    },
-    {
-      "gross": "$29.7M",
-      "id": "tt10855768",
-      "image": "https://m.media-amazon.com/images/M/MV5BMjAzYjUwNWUtYTYxOS00MTkzLWJkOTUtOTE4MTE4ODRmNGNhXkEyXkFqcGdeQXVyMTA3MDk2NDg2._V1_Ratio0.6716_AL_.jpg",
-      "rank": "9",
-      "title": "Missing",
-      "weekend": "$1.7M",
-      "weeks": "5"
-    }
-  ]
+    [
+      {
+        "id": "tt5090568",
+        "rank": "1",
+        "title": "Transformers: Rise of the Beasts",
+        "image": "https://www.oldtrenchy.com/wp-content/uploads/2023/06/Transformers-Rise-of-the-Beasts-banner.jpg",
+        "weekend": "$61.0M",
+        "gross": "$61.0M",
+        "weeks": "1"
+      },
+      {
+        "id": "tt9362722",
+        "rank": "2",
+        "title": "Spider-Man: Across the Spider-Verse",
+        "image": "https://euro.dayfr.com/content/uploads/2023/05/23/693a1bcbdc.jpg",
+        "weekend": "$55.5M",
+        "gross": "$225.5M",
+        "weeks": "2"
+      },
+      {
+        "id": "tt5971474",
+        "rank": "3",
+        "title": "The Little Mermaid",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTUxYjczMWUtYzlkZC00NTcwLWE3ODQtN2I2YTIxOTU0ZTljXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+        "weekend": "$23.2M",
+        "gross": "$229.2M",
+        "weeks": "3"
+      },
+      {
+        "id": "tt6791350",
+        "rank": "4",
+        "title": "Guardians of the Galaxy Vol. 3",
+        "image": "https://m.media-amazon.com/images/M/MV5BMDgxOTdjMzYtZGQxMS00ZTAzLWI4Y2UtMTQzN2VlYjYyZWRiXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6716_AL_.jpg",
+        "weekend": "$7.2M",
+        "gross": "$335.6M",
+        "weeks": "6"
+      },
+      {
+        "id": "tt3427252",
+        "rank": "5",
+        "title": "The Boogeyman",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzNkYmE1NDYtMmI4Mi00YjU2LTkxZDEtMWI0ZDE4MTczZDRjXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_Ratio0.6716_AL_.jpg",
+        "weekend": "$7.2M",
+        "gross": "$25.0M",
+        "weeks": "2"
+      },
+      {
+        "id": "tt5433140",
+        "rank": "6",
+        "title": "Fast X",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzZmOTU1ZTEtYzVhNi00NzQxLWI5ZjAtNWNhNjEwY2E3YmZjXkEyXkFqcGdeQXVyODk4OTc3MTY@._V1_Ratio0.6716_AL_.jpg",
+        "weekend": "$5.3M",
+        "gross": "$138.2M",
+        "weeks": "4"
+      },
+      {
+        "id": "tt6718170",
+        "rank": "7",
+        "title": "The Super Mario Bros. Movie",
+        "image": "https://familyfeelgood.files.wordpress.com/2023/02/334269226_1316145755613970_7449199008256286521_n.jpeg",
+        "weekend": "$2.2M",
+        "gross": "$570.3M",
+        "weeks": "10"
+      },
+      {
+        "id": "tt8373206",
+        "rank": "8",
+        "title": "About My Father",
+        "image": "https://m.media-amazon.com/images/M/MV5BZTUwYmYwMzUtYmIyZS00OWM3LWE3MWEtM2NjYTk0NzhiM2NmXkEyXkFqcGdeQXVyNDAyNjg5MzY@._V1_Ratio0.6716_AL_.jpg",
+        "weekend": "$837K",
+        "gross": "$10.8M",
+        "weeks": "3"
+      },
+      {
+        "id": "tt11040844",
+        "rank": "9",
+        "title": "The Machine",
+        "image": "https://m.media-amazon.com/images/M/MV5BNjAwMzk1YzEtOGJjOS00Mjg3LTllNGItMGYxNWI0ZTI1MTk3XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_Ratio0.6716_AL_.jpg",
+        "weekend": "$577K",
+        "gross": "$10.1M",
+        "weeks": "3"
+      },
+      {
+        "id": "tt13238346",
+        "rank": "10",
+        "title": "Past Lives",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTkzYmMxNTItZDAxNC00NGM0LWIyODMtMWYzMzRkMjIyMTE1XkEyXkFqcGdeQXVyMTAyMjQ3NzQ1._V1_Ratio0.6716_AL_.jpg",
+        "weekend": "$521K",
+        "gross": "$867K",
+        "weeks": "2"
+      }
+    ]
+  ],
+  "plans": [],
+  "news": [],
+  "trailers": []
 }
